@@ -1,0 +1,16 @@
+{
+  "name": "txbysignatureinsolana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.4"
+  }
+}
