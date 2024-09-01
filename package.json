@@ -1,9 +1,9 @@
 {
   "name": "txbysignatureinsolana",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "imain.mjs",
   "scripts": {
-    "start": "nodemon main.js"
+    "start": "nodemon main.mjs"
   },
   "author": "",
   "license": "ISC",
